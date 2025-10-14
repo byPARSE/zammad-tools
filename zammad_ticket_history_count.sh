@@ -7,7 +7,8 @@
 #   This script reads ticket counts from Zammad grouped by group and state,
 #   and exports them to Elasticsearch with timestamps for historical tracking
 #   and analysis.
-#
+#   USE AT YOUR OWN RISK! NOT COVERED BY ZAMMAD SUPPORT!
+# 
 # Author: Tobias Siudak
 # Version: 1.0.0
 # Date: 2025-10-14
